@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mehmetabak
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning software
-- 📫 How to reach me mehmetnurabak0@gmail.com
+- 👋 Hi, I’m @mehmetabak ,
+- 👨‍💻 I'm know java and python programming languages ,
+- 👀 I’m interested in learning new things ,
+- 🌱 I’m currently learning software development ,
+- 📫 How to reach me mehmetnurabak0@gmail.com .
 
 <!---
 memoli0/memoli0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
