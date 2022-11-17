@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mehmetabak ,
+- 👋 Hi, I’m Mehmet Abak ,
 - 👨‍💻 I'm know kotlin, java and python programming languages ,
 - 👀 I’m interested in learning new things ,
 - 🌱 I’m currently learning software development ,
