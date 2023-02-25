@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Mehmet Abak</h1>
-<h3 align="center">A software developer</h3>
+<h3 align="center">As a software developer</h3>
 
 - 👨‍💻 I'm know kotlin, java and python programming languages ,
 - 👀 I’m interested in learning new things ,
