@@ -11,6 +11,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=memoli0&color=green" alt="memoli0 :: Profile Stats"></a>
 <a href="mailto:mehmetnurabak0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehmetnurabak0@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://twitter.com/Mehmetn45363159" target="blank"><img src="https://img.shields.io/twitter/follow/Mehmetn45363159?logo=twitter&style=for-the-badge" alt="Mehmet Abak" /></a>
 <!---
 <a href="https://www.linkedin.com/in/myUserName/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@myUserName-blue?style=flat&logo=linkedin"></a>
 -->
