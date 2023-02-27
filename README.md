@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning software development ,
 - 📫 You can reach me at mehmetnurabak0@gmail.com .
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=memoli0&color=green" alt="memoli0 :: Profile Stats"></a>
@@ -17,12 +17,12 @@
 
 </p>
 
-<h3 align="center">Tech I Use:</h3>
+<h2 align="center">Tech I Use:</h2>
 <p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.kodular.io/" target="_blank"> <img src="https://play-lh.googleusercontent.com/Y6-JGDLlQvQmeIK3L-vDRluNeWOTBJQTUsDGXckBEYcFcpJjZ-WB5oErtnhJbgnJFbNM" alt="kodular" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 
 
 
-<h3 align="center">My GitHub Stats :bar_chart:</h3>
+<h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=memoli0&show_icons=true&theme=tokyonight" width="350" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=compact&theme=tokyonight" width="350" height="150"> 
