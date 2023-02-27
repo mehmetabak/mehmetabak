@@ -22,7 +22,7 @@
 
 
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<h3 align="center">My GitHub Stats :bar_chart:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=memoli0&show_icons=true&theme=tokyonight" width="350" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=compact&theme=tokyonight" width="350" height="150"> 
