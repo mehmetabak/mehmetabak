@@ -34,10 +34,29 @@
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memoli0&show_icons=true&theme=tokyonight" width="350" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=compact&theme=tokyonight" width="350" height="150"> 
-</p>
+<table align="center">
+    <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Most Used Languages:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=memoli0&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=memoli0&show_icons=true&theme=tokyonight">
+        </a>
+        </td>
+        <td colspan="4" rowspan="3">
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=donut-vertical&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=donut-vertical&theme=tokyonight">
+        </a>
+        </td>
+    </tr>
+</table>
+
 
 
 <!---
