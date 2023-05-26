@@ -30,6 +30,7 @@
 <a href="https://www.linkedin.com/in/mehmet-a-12a716226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mehmet Abak" height="30" width="40" /></a>
 <a href="https://leetcode.com/memoli0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Mehmet Abak" height="30" width="40" /></a>
 <a href="https://arastir.super.site" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sitepoint.svg" alt="My Website" height="30" width="40" /></a>
+<a href="https://codepen.io/memoli0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Mehmet Abak" height="30" width="40" /></a>
 </p>
 <!---
 <a href="https://www.linkedin.com/in/myUserName/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@myUserName-blue?style=flat&logo=linkedin"></a>
