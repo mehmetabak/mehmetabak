@@ -46,7 +46,7 @@
 
 
 
-<h2 align="center">My GitHub Stats : :bar_chart:</h2>
+<h2 align="center">My GitHub Stats :bar_chart: :</h2>
 <table align="center">
     <tr>
         <td colspan="2">
