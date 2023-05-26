@@ -10,7 +10,7 @@
 - 📫 You can reach me at mehmetnurabak0@gmail.com .
 
 
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+Android+Developer+;I'm+a+Frontend+Developer;I'm+a+Python+Developer;In+short,+I'm+a+software+developer)]()
+-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+Android+Developer+;I'm+a+Frontend+Developer;I'm+a+Python+Developer;In+short,+I'm+a+software+developer)]()
 
 
 <p align="center">
