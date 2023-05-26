@@ -9,10 +9,9 @@
 
 - 📫 You can reach me at mehmetnurabak0@gmail.com .
 
-<p align="center">
-    
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFF7ED&width=435&lines=I'm+a+Android+Developer+;I'm+a+Frontend+Developer;I'm+a+Python+Developer;In+short,+I'm+a+software+developer)]()
-</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=memoli0&color=blue" alt="memoli0 :: Profile Stats"></a>
