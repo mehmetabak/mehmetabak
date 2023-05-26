@@ -2,9 +2,13 @@
 <h3 align="center">As a software developer</h3>
 
 - 👨‍💻 I know kotlin, java and python programming languages ,
+
 - 👀 I’m interested in learning new things ,
+
 - 🌱 I’m currently learning software development ,
+
 - 📫 You can reach me at mehmetnurabak0@gmail.com .
+
 
 <h2 align="center">Connect with me:</h2>
 
