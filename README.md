@@ -9,10 +9,12 @@
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=memoli0&color=blue" alt="memoli0 :: Profile Stats"></a>
-  </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=memoli0&color=blue" alt="memoli0 :: Profile Stats"></a>
+</p>
+<p align="center">
 <a href="https://twitter.com/Mehmetn45363159" target="blank"><img src="https://img.shields.io/twitter/follow/Mehmetn45363159?logo=twitter&style=for-the-badge" alt="Mehmet Abak" /></a>
+</p>
 
 <p align="center">
 <a href="https://medium.com/@mehmetnurAbak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Mehmet Abak" height="30" width="40" /></a>
