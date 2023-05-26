@@ -50,8 +50,8 @@
         </a>
         </td>
         <td colspan="4" rowspan="3">
-        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=donut-vertical&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=donut-vertical&theme=tokyonight">
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=compact&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoli0&layout=compact&theme=tokyonight">
         </a>
         </td>
     </tr>
