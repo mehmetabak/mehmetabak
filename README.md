@@ -2,16 +2,16 @@
 <h2 align="center">As a software developer</h2>
 
 <p align="center">
-👨‍💻 I know kotlin, java and python programming languages ,
+- 👨‍💻 I know kotlin, java and python programming languages ,
 </p>
 <p align="center">
-👀 I’m interested in learning new things ,
+- 👀 I’m interested in learning new things ,
 </p>
 <p align="center">
-🌱 I’m currently learning software development ,
+- 🌱 I’m currently learning software development ,
 </p>
 <p align="center">
-📫 You can reach me at mehmetnurabak0@gmail.com .
+- 📫 You can reach me at mehmetnurabak0@gmail.com .
 </p>
 
 <br />
