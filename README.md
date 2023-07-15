@@ -2,23 +2,25 @@
 <h2 align="center">As a software developer</h2>
 
 <p align="justify">
+ 
 - 👨‍💻 I know kotlin, java and python programming languages ,
-</p>
-<p align="justify">
+
+
 - 👀 I’m interested in learning new things ,               
-</p>
-<p align="justify">
+
+
 - 🌱 I’m currently learning software development ,         
-</p>
-<p align="justify">
-- 📫 You can reach me at mehmetnurabak0@gmail.com .        
-</p>
+
+
+- 📫 You can reach me at mehmetnurabak0@gmail.com .
 
 <br />
-<div align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+Android+Developer+;I'm+a+Frontend+Developer;I'm+a+Python+Developer;In+short,+I'm+a+software+developer)]() 
-</div>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=++++I'm+a+Android+Developer+;++++I'm+a+Frontend+Developer;++++I'm+a+Python+Developer;++++In+short,+I'm+a+software+developer)]() 
+
+        
+</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=memoli0&color=blue" alt="memoli0 :: Profile Stats"></a>
