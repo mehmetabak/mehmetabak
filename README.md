@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hi, I’m Mehmet Abak</h1>
 <h2 align="center">As a software developer</h2>
 
-<p align="center">
+<p align="justify">
 - 👨‍💻 I know kotlin, java and python programming languages ,
 </p>
-<p align="center">
+<p align="justify">
 - 👀 I’m interested in learning new things ,               
 </p>
-<p align="center">
+<p align="justify">
 - 🌱 I’m currently learning software development ,         
 </p>
-<p align="center">
+<p align="justify">
 - 📫 You can reach me at mehmetnurabak0@gmail.com .        
 </p>
 
