@@ -1,19 +1,26 @@
 <h1 align="center">👋 Hi, I’m Mehmet Abak</h1>
 <h3 align="center">As a software developer</h3>
 
-- 👨‍💻 I know kotlin, java and python programming languages ,
-
-- 👀 I’m interested in learning new things ,
-
-- 🌱 I’m currently learning software development ,
-
-- 📫 You can reach me at mehmetnurabak0@gmail.com .
+<p align="center">
+👨‍💻 I know kotlin, java and python programming languages ,
+</p>
+<p align="center">
+👀 I’m interested in learning new things ,
+</p>
+<p align="center">
+🌱 I’m currently learning software development ,
+</p>
+<p align="center">
+📫 You can reach me at mehmetnurabak0@gmail.com .
+</p>
 
 <br />
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+Android+Developer+;I'm+a+Frontend+Developer;I'm+a+Python+Developer;In+short,+I'm+a+software+developer)]() 
+<div align="center">
  
- <p align="center">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+Android+Developer+;I'm+a+Frontend+Developer;I'm+a+Python+Developer;In+short,+I'm+a+software+developer)]() 
+</div>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=memoli0&color=blue" alt="memoli0 :: Profile Stats"></a>
 </p>
 
