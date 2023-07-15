@@ -47,6 +47,7 @@
 -->
 
 </p>
+<br />
 
 <h2 align="center">Techs I can Use:</h2>
 <p align="center">
@@ -67,7 +68,7 @@
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-
+<br />
 
 <h2 align="center">My GitHub Stats :bar_chart: :</h2>
 <table align="center">
