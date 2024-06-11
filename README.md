@@ -68,8 +68,6 @@
 <img src="https://komarev.com/ghpvc/?username=memoli0&color=blue" alt="memoli0 :: Profile Stats"></a>
 </p>
 
-<br />
-
 <table align="center">
     <tr>
         <td colspan="2">
