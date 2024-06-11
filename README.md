@@ -66,7 +66,7 @@
 
 <br />
 
-<h2 align="center">My GitHub Stats :bar_chart: :</h2>
+<h2 align="center">My GitHub Stats:</h2>
 <table align="center">
     <tr>
         <td colspan="2">
@@ -91,7 +91,7 @@
 </table>
 
 
-
+<h2 align="center">Some of My Projects:</h2>
 <!---
 memoli0/memoli0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
