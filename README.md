@@ -3,16 +3,16 @@
 
 <p align="justify">
  
-- 👨‍💻 I know kotlin, java and python programming languages ,
+- 👨‍💻 Skilled in Java & Kotlin for Native Android Development,
 
 
-- 👀 I’m interested in learning new things ,               
+- 🤖 Focused on Data Science & Machine Learning,          
 
 
-- 🌱 I’m currently learning software development ,         
+- 📚 Constantly expanding my knowledge and exploring new technologies,         
 
 
-- 📫 You can reach me at mehmetnurabak0@gmail.com .
+- 📫 Feel free to reach out to me at mehmetnurabak0@gmail.com .
 
 <br />
  
