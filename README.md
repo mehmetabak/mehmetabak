@@ -15,10 +15,8 @@
 - 📫 Feel free to reach out to me at mehmetnurabak0@gmail.com .
 
 <br />
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&width=435&lines=%E3%85%A4I'm+an+Android+Developer+;%E3%85%A4I'm+a+Frontend+Developer+;%E3%85%A4I'm+a+Python+Developer+;%E3%85%A4In+short%2C+I'm+a+software+developer)]()
 
-        
+  
 </p>
 
 
