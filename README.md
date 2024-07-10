@@ -4,33 +4,22 @@
 <p align="justify">
  
 - 👨‍💻 Skilled in Java & Kotlin for Native Android Development,
-
-
 - 🤖 Focused on Data Science & Machine Learning,          
-
-
 - 📚 Constantly expanding my knowledge and exploring new technologies,         
-
-
-- 📫 Feel free to reach out to me at mehmetnurabak0@gmail.com .
-
+- 📫 Feel free to reach out to me at mehmetnurabak0@gmail.com.
 
 <h3 align="center">Explore, Learn, Share 🚀</h3>
 
 As a software developer, I'm always on the lookout for new technologies and eager to expand my knowledge. I document my journey, insights, and experiences on my blog [m0s](https://m0s.vercel.app). Dive into my portfolio at [mehmetabak.is-a.dev](https://mehmetabak.is-a.dev) to discover some of my proudest projects and achievements. 
 
 <br />
-
-  
 </p>
-
-
 
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mehmet-a-12a716226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/Mehmetn45363159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="X" height="30" width="40" /></a>
+<a href="https://twitter.com/Mehmetn45363159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://medium.com/@mehmetnurAbak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
 <a href="https://dev.to/memoli0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" alt="DEV Community" height="30" width="40" /></a>
 <a href="https://mehmetabak.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
@@ -39,9 +28,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <a href="https://arastir.super.site" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sitepoint.svg" alt="My Old Apps" height="30" width="40" /></a>
 <a href="https://codepen.io/memoli0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" height="30" width="40" /></a>
 </p>
-<!---
-<a href="https://www.linkedin.com/in/myUserName/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@myUserName-blue?style=flat&logo=linkedin"></a>
--->
+
 <br />
 
 <h2 align="center">Techs I can Use:</h2>
@@ -94,9 +81,4 @@ As a software developer, I'm always on the lookout for new technologies and eage
     </tr>
 </table>
 
-
 <h2 align="center">Some of My Projects:</h2>
-<!---
-memoli0/memoli0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
