@@ -55,7 +55,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <h2 align="center">My GitHub Stats:</h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=memoli0&color=blue" alt="memoli0 :: Profile Stats"></a>
+<img src="https://komarev.com/ghpvc/?username=mehmetabak&color=blue" alt="mehmetabak :: Profile Stats"></a>
 </p>
 
 <table align="center">
