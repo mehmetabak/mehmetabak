@@ -47,7 +47,6 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.onlinewebfonts.com/svg/img_201142.png" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452151/adobe-xd.svg" alt="XD" width="40" height="40"/> </a>
 </p>
 
 <br />
