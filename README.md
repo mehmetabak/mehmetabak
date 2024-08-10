@@ -6,7 +6,7 @@
 - 👨‍💻 Skilled in Java & Kotlin for Native Android Development,
 - 🤖 Focused on Data Science & Machine Learning,          
 - 📚 Constantly expanding my knowledge and exploring new technologies,         
-- 📫 Feel free to reach out to me at mehmetnurabak0@gmail.com.
+- 📫 Feel free to reach out to me at mehmetabak@proton.me.
 
 <h3 align="center">Explore, Learn, Share 🚀</h3>
 
