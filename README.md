@@ -19,7 +19,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mehmet-a-12a716226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/Mehmetn45363159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://x.com/mehmet_m0s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://abakmehmet.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
 <a href="https://dev.to/mehmetabak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" alt="DEV Community" height="30" width="40" /></a>
 <a href="https://mehmetabak.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
