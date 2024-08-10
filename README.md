@@ -42,7 +42,6 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" alt="Next.js" width="40" height="40"/> </a>
 <a href="https://www.javascript.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.onlinewebfonts.com/svg/img_201142.png" alt="MySQL" width="40" height="40"/> </a>
 </p>
 
 <br />
