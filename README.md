@@ -77,4 +77,4 @@ As a software developer, I'm always on the lookout for new technologies and eage
     </tr>
 </table>
 
-<h2 align="center">Some of My Projects:</h2>
+<h2 align="center">Some of my projects:</h2>
