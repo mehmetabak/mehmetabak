@@ -15,7 +15,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <br />
 </p>
 
-<h2 align="center">connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mehmet-abak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -48,7 +48,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <br />
 -->
 
-<h2 align="center">my stats:</h2>
+<h2 align="center">My stats:</h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mehmetabak&color=blue" alt="mehmetabak :: Profile Stats"></a>
