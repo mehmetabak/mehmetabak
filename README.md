@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Mehmet</h1>
-<h2 align="center">As a software developer</h2>
+<h2 align="center">As a Software Developer</h2>
 
 <p align="justify">
  
@@ -15,7 +15,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <br />
 </p>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with Me:</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mehmet-abak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -48,7 +48,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <br />
 -->
 
-<h2 align="center">My stats:</h2>
+<h2 align="center">My Github Stats:</h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mehmetabak&color=blue" alt="mehmetabak :: Profile Stats"></a>
@@ -77,4 +77,4 @@ As a software developer, I'm always on the lookout for new technologies and eage
     </tr>
 </table>
 
-<h2 align="center">Some of my projects:</h2>
+<h2 align="center">Some of My Projects:</h2>
