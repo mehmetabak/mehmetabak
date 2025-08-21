@@ -10,7 +10,7 @@
 
 <h3 align="center">Explore, Learn, Share 🚀</h3>
 
-As a software developer, I'm always on the lookout for new technologies and eager to expand my knowledge. I document my journey, insights, and experiences on my blog [m0s](https://m0s.space). Dive into my portfolio at [mehmetabak.is-a.dev](https://mehmetabak.is-a.dev) to discover some of my proudest projects and achievements. 
+As a software developer, I'm always on the lookout for new technologies and eager to expand my knowledge. I document my journey, insights, and experiences on my blog [m0s](https://mehmetabak.space). Dive into my portfolio at [mehmetabak.is-a.dev](https://mehmetabak.is-a.dev) to discover some of my proudest projects and achievements. 
 
 <br />
 </p>
