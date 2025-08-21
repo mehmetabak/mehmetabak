@@ -15,6 +15,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 <br />
 </p>
 
+<!---
 <h2 align="center">Connect with Me:</h2>
 
 <p align="center">
@@ -29,7 +30,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 
 <br />
 
-<!---
+
 <h2 align="center">Techs I can Use:</h2>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://www.svgrepo.com/show/217740/android.svg" alt="Android" width="40" height="40"/> </a>
