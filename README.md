@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I’m Mehmet</h1>
-<h2 align="center">As a Software Developer</h2>
+<h2 align="center">As a Developer</h2>
 
 <p align="justify">
  
-- 🛠️ Skilled in Java & Kotlin for Native Android Development,
+- 🛠️ Have knowledge in Java & Kotlin for Native Android Development,
 - 📖 Focused on Data Science & Machine Learning,          
 - 📚 Constantly expanding my knowledge and exploring new technologies,         
 - 📫 Feel free to reach out to me at mehmetabak@proton.me.
