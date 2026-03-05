@@ -48,7 +48,7 @@ As a software developer, I'm always on the lookout for new technologies and eage
 
 <br />
 -->
-
+<!---
 <h2 align="center">My Github Stats:</h2>
 
 <p align="center">
@@ -77,5 +77,6 @@ As a software developer, I'm always on the lookout for new technologies and eage
         </td>
     </tr>
 </table>
+-->
 
 <h2 align="center">Some of My Projects:</h2>
